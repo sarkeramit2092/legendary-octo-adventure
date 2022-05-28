@@ -1,4 +1,4 @@
-# Spring-Boot Manual Installation
+#Manual Installation
 
 ## Step-1
 
